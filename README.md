@@ -1,5 +1,7 @@
 # LiDAR fog simulation
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fog-simulation-on-real-lidar-point-clouds-for/3d-object-detection-on-stf)](https://paperswithcode.com/sota/3d-object-detection-on-stf?p=fog-simulation-on-real-lidar-point-clouds-for)
+
 Created by [Martin Hahner](https://sites.google.com/view/martinhahner/home) at the [Computer Vision Lab](https://vision.ee.ethz.ch/) of [ETH Zurich](https://ethz.ch/).
 
 This is the official code release of the paper <br> 
