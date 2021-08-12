@@ -3,7 +3,7 @@
 Created by [Martin Hahner](https://sites.google.com/view/martinhahner/home) at the [Computer Vision Lab](https://vision.ee.ethz.ch/) of [ETH Zurich](https://ethz.ch/).
 
 This is the official code release of the paper <br> 
-**Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather** <br>
+**[Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2108.05249)** <br>
 *by [Martin Hahner](https://www.trace.ethz.ch/team/members/martin.html), [Christos Sakaridis](https://www.trace.ethz.ch/team/members/christos.html), [Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html), and [Luc van Gool](https://www.trace.ethz.ch/team/members/luc.html)*, accepted at [ICCV 2021](http://iccv2021.thecvf.com). <br>
 
 Please visit our [paper website](https://trace.ethz.ch/lidar_fog_sim) for more details.
