@@ -61,7 +61,7 @@ If you find this work useful, please consider citing our paper.
 ```bibtex
 @inproceedings{HahnerICCV21,
   author = {Hahner, Martin and Sakaridis, Christos and Dai, Dengxin and Van Gool, Luc},
-  title = {Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather},
+  title = {{Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather}},
   booktitle = {IEEE International Conference on Computer Vision (ICCV)},
   year = {2021},
 }
