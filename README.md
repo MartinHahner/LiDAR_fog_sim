@@ -1,6 +1,6 @@
 # LiDAR fog simulation
 
-[![arXiv](https://img.shields.io/badge/arXiv-2108.05249-00ff00.svg)](https://arxiv.org/abs/2108.05249) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fog-simulation-on-real-lidar-point-clouds-for/3d-object-detection-on-stf)](https://paperswithcode.com/sota/3d-object-detection-on-stf?p=fog-simulation-on-real-lidar-point-clouds-for) 
+[![arXiv](https://img.shields.io/badge/arXiv-2108.05249-00ff00.svg)](https://arxiv.org/abs/2108.05249) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fog-simulation-on-real-lidar-point-clouds-for/3d-object-detection-on-stf)](https://paperswithcode.com/sota/3d-object-detection-on-stf?p=fog-simulation-on-real-lidar-point-clouds-for) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MartinHahner.LiDAR_fog_sim)
 
 Created by [Martin Hahner](https://sites.google.com/view/martinhahner/home) at the [Computer Vision Lab](https://vision.ee.ethz.ch/) of [ETH Zurich](https://ethz.ch/).
 
