@@ -1,13 +1,12 @@
-# LiDAR fog simulation
+Created by [Martin Hahner](https://sites.google.com/view/martinhahner/home) at the [Computer Vision Lab](https://vision.ee.ethz.ch/) of [ETH Zurich](https://ethz.ch/).
 
 [![arXiv](https://img.shields.io/badge/arXiv-2108.05249-00ff00.svg)](https://arxiv.org/abs/2108.05249) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fog-simulation-on-real-lidar-point-clouds-for/3d-object-detection-on-stf)](https://paperswithcode.com/sota/3d-object-detection-on-stf?p=fog-simulation-on-real-lidar-point-clouds-for) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MartinHahner.LiDAR_fog_sim)
 
-Created by [Martin Hahner](https://sites.google.com/view/martinhahner/home) at the [Computer Vision Lab](https://vision.ee.ethz.ch/) of [ETH Zurich](https://ethz.ch/).
 
-This is the official code release of the paper <br> 
-**[Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2108.05249)** <br>
-*by [Martin Hahner](https://www.trace.ethz.ch/team/members/martin.html), [Christos Sakaridis](https://www.trace.ethz.ch/team/members/christos.html), [Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html), and [Luc van Gool](https://www.trace.ethz.ch/team/members/luc.html)*, accepted at [ICCV 2021](http://iccv2021.thecvf.com). <br>
+# [Fog Simulation on Real LiDAR Point Clouds <br> for 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2108.05249)
+*by [Martin Hahner](https://www.trace.ethz.ch/team/members/martin.html), [Christos Sakaridis](https://www.trace.ethz.ch/team/members/christos.html), [Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html), and [Luc van Gool](https://www.trace.ethz.ch/team/members/luc.html)*
 
+Accepted at [ICCV 2021](http://iccv2021.thecvf.com). <br>
 Please visit our [paper website](https://trace.ethz.ch/lidar_fog_sim) for more details.
 
 ![pointcloud_viewer](https://user-images.githubusercontent.com/14181188/115385936-0e033b00-a1d9-11eb-9d55-75969ae7ce47.gif)
