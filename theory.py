@@ -3,7 +3,7 @@ __contact__ = "martin.hahner@pm.me"
 __license__ = "CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)"
 
 test
-
+xwc
 # GUI adapted from
 # https://memotut.com/create-a-3d-model-viewer-with-pyqt5-and-pyqtgraph-b3916/ and
 # https://matplotlib.org/3.1.1/gallery/user_interfaces/embedding_in_qt_sgskip.html
