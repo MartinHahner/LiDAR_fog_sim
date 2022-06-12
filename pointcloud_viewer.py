@@ -1545,7 +1545,7 @@ class MyWindow(QMainWindow):
 
     def populate_dense_boxes(self, filename):
 
-        root = str(Path.home()) + '/repositories/PCDet/lib/SeeingThroughFog/tools/DatasetViewer/calibs'
+        root = str(Path(__file__) / 'SeeingThroughFog/tools/DatasetViewer/calibs')
         tf_tree = 'calib_tf_tree_full.json'
 
         name_camera_calib = 'calib_cam_stereo_left.json'
