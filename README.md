@@ -65,7 +65,17 @@ If you find this work useful, please consider citing our paper.
   year = {2021},
 }
 ```
+You may also want to check out our latest work (Oral at CVPR 2022)<br>
+[*LiDAR Snowfall Simulation for Robust 3D Object Detection*](https://github.com/SysCV/LiDAR_snow_sim).
 
+```bibtex
+@inproceedings{HahnerCVPR22,
+  author = {Hahner, Martin and Sakaridis, Christos and Bijelic, Mario and Heide, Felix and Yu, Fisher and Dai, Dengxin and Van Gool, Luc},
+  title = {{LiDAR Snowfall Simulation for Robust 3D Object Detection}},
+  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2022},
+}
+```
 
 ## Getting Started
 
