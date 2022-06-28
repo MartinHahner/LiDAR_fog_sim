@@ -54,7 +54,7 @@ This work is supported by [Toyota](https://www.toyota-europe.com/) via the [TRAC
 Furthermore, we would like to thank the authors of [SeeingThroughFog](https://www.cs.princeton.edu/~fheide/AdverseWeatherFusion/) for their great work. <br>
 In this repository, we use a [fork](https://github.com/MartinHahner/SeeingThroughFog) of [their original repository](https://github.com/princeton-computational-imaging/SeeingThroughFog) to visualize annotations and compare to their fog simulation. Their code is licensed via the [MIT License](https://github.com/princeton-computational-imaging/SeeingThroughFog/blob/master/LICENSE).
 
-## Citation
+## Citation(s)
 
 If you find this work useful, please consider citing our paper.
 ```bibtex
